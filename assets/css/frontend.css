@@ -1,0 +1,8 @@
+/* Mobile buttons */
+
+.storefront-handheld-footer-bar ul li.call > a:before {
+	content: "\f095";
+}
+.storefront-handheld-footer-bar ul li.catalogue > a:before {
+	content: "\f02d";
+}
