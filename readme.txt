@@ -1,8 +1,10 @@
+[![Build Status](https://travis-ci.org/Drivez/WP_woocommerce_mobile_buttons.svg?branch=master)](https://travis-ci.org/Drivez/WP_woocommerce_mobile_buttons)
+
 === Woocommerce Mobile Buttons ===
 Contributors: Marius Kildedal
 Tags: wordpress, plugin, woocommerce, storefront
-Requires at least: 3.9
-Tested up to: 4.0
+Requires at least: 4.1.1 PHP: 7.0
+Tested up to: 4.1.1
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
